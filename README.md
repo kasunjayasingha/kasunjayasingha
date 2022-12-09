@@ -6,17 +6,17 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kasun-jayasinghe-7800271bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kasun-jayasinghe-7800271bb/"  width="32px"  /></a>
+<a href="https://www.linkedin.com/in/kasun-jayasinghe-7800271bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kasun-jayasinghe-7800271bb/"  width="32px"  /></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14693521/kasun-jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14693521/kasun-jayasinghe" width="32px"  /></a>
+<a href="https://stackoverflow.com/users/14693521/kasun-jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14693521/kasun-jayasinghe" width="32px"  /></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://instagram.com/https://www.instagram.com/mr.k_jay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr.k_jay/" width="32px"  /></a>
+<a href="https://www.instagram.com/mr.k_jay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr.k_jay/" width="32px"  /></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://fb.com/https://www.facebook.com/kasun.harithathiwanka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kasun.harithathiwanka/" width="32px"  /></a>
+<a href="https://www.facebook.com/kasun.harithathiwanka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kasun.harithathiwanka/" width="32px"  /></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://twitter.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="#" width="32px" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="#" width="32px" /></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://dev.to/https://dev.to/kasunjayasingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/kasunjayasingha" height="30" width="40" /></a>
+<a href="https://dev.to/kasunjayasingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/kasunjayasingha" height="30" width="40" /></a>
 
 </p>
 
@@ -92,6 +92,12 @@
 <br/>
 </br>
 
+<!-- <div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kasunjayasingha&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasunjayasingha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div> -->
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
