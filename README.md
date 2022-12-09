@@ -1,6 +1,6 @@
 <h2 align="center">Hello there 👋</h2>
 <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&center=true&multiline=true&width=800&height=70&lines=I'm+Kasun+Jayasinghe;I%E2%80%99m+currently+learning++Software+Engineering.+(Undergraduate)" alt="Typing SVG" style="display: block; margin: 0 auto" /></a>
+    <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&center=true&multiline=true&width=800&height=70&lines=I'm+Kasun+Jayasinghe;I%E2%80%99m+currently+learning++Software+Engineering.+(Undergraduate)" alt="Typing SVG" style="display: block; margin: 0 auto" /></a>
 </p>
 <!-- Social icons section -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
