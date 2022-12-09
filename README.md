@@ -4,7 +4,7 @@
 <!-- Social icons section -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
 <p align="center">
-  <a href="https://www.linkedin.com/in/kasun-jayasinghe-7800271bb/"><i class="bi bi-linkedin"></i></a>
+  <a href="https://www.linkedin.com/in/kasun-jayasinghe-7800271bb/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50" fill="#ff4135"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://stackoverflow.com/users/14693521/kasun-jayasinghe"><svg xmlns="http://www.w3.org/2000/svg"width="32px" alt="Stack-overflow"  fill="#ff4135" class="bi bi-stack-overflow" viewBox="0 0 16 16">
   <path d="M12.412 14.572V10.29h1.428V16H1v-5.71h1.428v4.282h9.984z"/>
