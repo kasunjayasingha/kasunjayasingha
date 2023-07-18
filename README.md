@@ -1,7 +1,7 @@
 <h2 align="center">Hello there 👋</h2>
 
 <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&center=true&multiline=true&width=800&height=70&lines=I'm+Kasun+Jayasinghe;I%E2%80%99m+currently+learning++Software+Engineering.+(Undergraduate)" alt="Typing SVG" style="display: block; margin: 0 auto" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&center=true&multiline=true&width=800&height=70&lines=I'm+Kasun+Jayasinghe;I%E2%80%99m+currently+learning++MEAN +Stack.+(Full Stack Developer)" alt="Typing SVG" style="display: block; margin: 0 auto" />
 <!-- Social icons section -->
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
@@ -41,9 +41,13 @@
  
   <h3>🧰 Frameworks and Libraries</h3>
 
+  
+  <!-- ![alt text](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular) -->
   <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   </p>
+
+      
   
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
