@@ -1,6 +1,11 @@
 <h2 align="center">Hello there 👋</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&center=true&multiline=true&width=800&height=70&lines=I'm+Kasun+Jayasinghe;I%E2%80%99m+Angular+and+Spring +boot +developer")](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&center=true&width=520&height=100&lines=I'm+Kasun+Jayasinghe;I'm+Angular%7CReact%7CSpring-boot+developerer" alt="Typing SVG" />
+  </a>
+</p>
+
 <!-- Social icons section -->
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
@@ -49,6 +54,7 @@
   <h3>🧰 Frameworks and Libraries</h3>
 
   ![](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![](https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=green)
   ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![](https://img.shields.io/badge/PrimeNG-EF2D5E?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -72,6 +78,8 @@
 
   ![](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
   ![](https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
   ![](https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
