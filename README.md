@@ -1,7 +1,6 @@
 <h2 align="center">Hello there 👋</h2>
 
-<p>
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&center=true&multiline=true&width=800&height=70&lines=I'm+Kasun+Jayasinghe;I%E2%80%99m+Angular+and+Spring +boot +developer")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&center=true&multiline=true&width=800&height=70&lines=I'm+Kasun+Jayasinghe;I%E2%80%99m+Angular+and+Spring +boot +developer")](https://git.io/typing-svg)
 <!-- Social icons section -->
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
